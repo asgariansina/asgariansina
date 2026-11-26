@@ -29,11 +29,11 @@
 <path d="M430 548 H1168" stroke="#303d4b"/>
 <text x="430" y="587" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#f4bf58">GitHub Stats</text>
 <text x="430" y="637" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#f4bf58">Repos</text>
-<text x="560" y="637" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">2</text>
+<text x="560" y="637" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">3</text>
 <text x="795" y="637" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#f4bf58">Stars</text>
 <text x="925" y="637" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">0</text>
 <text x="430" y="684" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#f4bf58">Commits</text>
-<text x="560" y="684" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">5</text>
+<text x="560" y="684" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">7</text>
 <text x="795" y="684" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#f4bf58">Followers</text>
 <text x="925" y="684" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" fill="#b9e3f6">1</text>
 <text x="430" y="729" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="400" fill="#96a6b7">Public repos &amp; stars · commits in the last 12 months</text>
