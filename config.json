@@ -1,0 +1,31 @@
+{
+  "username": "asgariansina",
+  "heading": "sina@github",
+  "fields": [
+    {"label": "Role", "lines": ["Full-stack / Quant Developer"]},
+    {"label": "Focus", "lines": ["Market Making Research", "Backtesting · Wallet Analytics"]},
+    {"label": "Stack", "lines": ["Python · Rust · JavaScript"]},
+    {"label": "Systems", "lines": ["WebSockets · REST APIs"]},
+    {"label": "Research", "lines": ["Walk-forward · Paper Trading"]},
+    {"label": "Projects", "lines": ["Hyperliquid MM · Wallet Follow", "TradeSuite · Financial Agent Lab"]}
+  ],
+  "stats_title": "GitHub Stats",
+  "stats_labels": {"repos": "Repos", "stars": "Stars", "commits": "Commits", "followers": "Followers"},
+  "stats_note": "Public repos & stars · commits in the last 12 months",
+  "updated_label": "Updated",
+  "pending_label": "Awaiting first successful update",
+  "alt": "Sina — Full-stack / Quant Developer. Market making research, backtesting and wallet analytics. Python, Rust and JavaScript. Portrait in a red cap rendered as character art, alongside live public GitHub statistics.",
+  "readme_summary": "I build trading research tools and full-stack applications, from market-making simulations and walk-forward backtests to wallet analytics and portfolio dashboards.",
+  "projects": [
+    {"name": "Hyperliquid MM", "description": "Market-making research, order-book signals and paper-trading simulations."},
+    {"name": "Wallet Follow", "description": "Wallet scoring, walk-forward copy-rule backtests and a paper-only follow engine."},
+    {"name": "TradeSuite", "description": "Portfolio dashboards, PnL tracking and shared real-time positions."},
+    {"name": "Financial Agent Lab", "description": "A Rust prototype for testing financial workflow failures with deterministic replay."}
+  ],
+  "details_label": "About the projects & statistics",
+  "stats_explanation": "Statistics cover public owned repositories (including forks), stars received by those repositories, followers, and GitHub-recognized public commit contributions during the last 12 months. They refresh daily and after pushes. Private project source code is not published here.",
+  "themes": {
+    "dark": {"background": "#0d1117", "foreground": "#b9e3f6", "accent": "#f4bf58", "muted": "#96a6b7", "border": "#303d4b"},
+    "light": {"background": "#f6f8fa", "foreground": "#183c55", "accent": "#885814", "muted": "#576576", "border": "#cbd5df"}
+  }
+}
